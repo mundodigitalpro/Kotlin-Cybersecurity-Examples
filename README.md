@@ -138,3 +138,11 @@ fun main() {
     demonstrateExceptionHandling()
     demonstrateAccessControl()
 }
+
+```
+
+### Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or new examples related to Kotlin and cybersecurity.
+
+### License
+This repository is licensed under the MIT License. See the LICENSE file for details.
