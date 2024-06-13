@@ -43,7 +43,7 @@ Encapsulation and access control are demonstrated to ensure that your code is st
 
 ## Usage
 
-To run the examples, copy and paste the code into [Kotlin Playground](https://play.kotlinlang.org/) and execute it. Each function demonstrates a specific cybersecurity practice.
+To run the examples, copy and paste the code into [Kotlin Playground]([https://play.kotlinlang.org/](https://pl.kotl.in/LoiTF-418)) and execute it. Each function demonstrates a specific cybersecurity practice.
 
 ### Full Code Example
 
